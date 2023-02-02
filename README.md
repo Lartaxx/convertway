@@ -8,3 +8,5 @@ Features :
 - Password change by user
 - Notification system 
 - View of your orders
+
+> This project was realized with the PHP framework Laravel
